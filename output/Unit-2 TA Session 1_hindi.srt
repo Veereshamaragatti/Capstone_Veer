@@ -1,0 +1,139 @@
+1
+00:00:00,000 --> 00:00:06,599
+the trippy by NB files and you are free to collaborate with your classmates but just try the
+
+2
+00:00:06,599 --> 00:00:12,480
+name of the people you collaborated with at the top of the worksheet. So, as is introduced
+
+3
+00:00:12,480 --> 00:00:17,620
+the worksheet still by the worksheet two ways on simple linear regression and down multiple
+
+4
+00:00:17,620 --> 00:00:24,940
+linear regression. You will have to just plot a scatter plot and build a linear regression model
+
+5
+00:00:24,940 --> 00:00:31,600
+which have to check if it follows the OS assumptions and validate the linear regression model.
+
+6
+00:00:32,399 --> 00:00:40,280
+Then the multiple linear regression have to plot a corralogram and check which contribute
+
+7
+00:00:40,280 --> 00:00:45,659
+most to the target variable and build a multiple linear regression model based on that.
+
+8
+00:00:47,119 --> 00:00:54,320
+Worksheep 2B is based on rich regression, last so and elastic regression. You have to
+
+9
+00:00:54,320 --> 00:01:00,200
+build all these three models. Worksheep 2B is on logistic regression. You have to just build
+
+10
+00:01:00,880 --> 00:01:07,760
+logistic regression model and you are the ROC curve and a ROC value. So, the last data summit will be
+
+11
+00:01:07,760 --> 00:01:15,719
+28 September. Before constructing the core core logogram you can use anything label and coding
+
+12
+00:01:15,719 --> 00:01:24,599
+one more thing. This can ask your doubts in the chat or you can raise your hand will unmute you.
+
+13
+00:01:27,739 --> 00:01:33,120
+There will be another creation four or five days before that it lines. So, by then your
+
+14
+00:01:33,120 --> 00:01:40,060
+portion should be covered. So, you will be able to solve and ask more questions at time.
+
+15
+00:01:40,060 --> 00:01:46,700
+But if you have any doubts you can put it in the chat or unmute or raise your hand will unmute.
+
+16
+00:01:48,260 --> 00:01:53,400
+You can just use the libraries to build the model. Like for linear regression model you can use
+
+17
+00:01:53,400 --> 00:02:02,019
+LM and for worksheet 2B you can use GLM net. You need not build one from scan just import the
+
+18
+00:02:02,019 --> 00:02:08,280
+life duties. You can use any library you want. There is no compression on the syntax you can use
+
+19
+00:02:08,280 --> 00:02:20,719
+any libraries. Which question the OLS assumptions? For OLS assumptions you can do like three. You can
+
+20
+00:02:20,719 --> 00:02:28,180
+check if the residuals are residuals for the normal distribution. You can check with homosadacity
+
+21
+00:02:28,180 --> 00:02:33,560
+and you can check for the linear relationship. You can do three that is enough.
+
+22
+00:02:33,560 --> 00:02:42,539
+Let us answer your question. If you did as a map down it will be better and professional. If it is
+
+23
+00:02:42,539 --> 00:02:53,080
+code then use the code. Both graphs and write ups because try to add your analysis as much as possible
+
+24
+00:02:53,080 --> 00:03:01,560
+not only code. So, add comments or map down whatever you are plotting. Ignase you can unmute and
+
+25
+00:03:01,560 --> 00:03:03,740
+pause the question.
+
+26
+00:03:18,139 --> 00:03:23,319
+So, you can add a map down cell and answer in that cell after each question.
+
+27
+00:03:25,770 --> 00:03:35,770
+Yes. Yes. Yes. Yes. I do. The histogram of residuals is in the normal distribution. But do
+
+28
+00:03:35,770 --> 00:03:53,409
+add like a text. I will just do not add the code. I do not write the code for plotting
+
+29
+00:03:53,409 --> 00:04:00,129
+whatever you want to write the text or analysis and code cells when you want to execute the code.
+
+30
+00:04:00,430 --> 00:04:05,870
+Add there any more questions or mission random. There will be another T.S. session
+
+31
+00:04:06,870 --> 00:04:12,949
+profile days before the deadline. So, you guys should the portion should be covered by then.
+
+32
+00:04:13,210 --> 00:04:18,769
+So, you guys should be able to solve that. About the hackathon we will let you know. So,
+
+33
+00:04:18,769 --> 00:04:23,250
+you guys have any more questions. Okay. We lent them. Thank you for joining us.
+
+34
+00:04:24,550 --> 00:04:29,149
+If any of you have missed the first part of this session, you'll make the recording available.
+
+35
+00:04:29,350 --> 00:04:31,649
+You guys can catch up with that. Thank you.

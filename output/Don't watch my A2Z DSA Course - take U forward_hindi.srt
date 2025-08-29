@@ -1,0 +1,323 @@
+1
+00:00:00,000 --> 00:00:05,639
+So if you're looking out for a structured DS algorithm course, I must say you're on the correct channel.
+
+2
+00:00:05,919 --> 00:00:12,279
+So in this video I'll be telling you how the learn DS algorithm from A to Z in depth. Yes.
+
+3
+00:00:12,800 --> 00:00:17,679
+So first of all, where to learn not on the YouTube channel because it is not structured.
+
+4
+00:00:18,300 --> 00:00:24,260
+You'll have to head over to the website, take you forward.org might be seeing it on the screen.
+
+5
+00:00:24,579 --> 00:00:28,120
+The UI might be different. Someone's down the line, but doesn't matter.
+
+6
+00:00:28,120 --> 00:00:34,659
+Which course is it? Something as A to Z DSA course. Open it up.
+
+7
+00:00:34,719 --> 00:00:43,899
+And as 4 55 modules, covering 18 or 19 topics. Every topic has sub modules like sub parts as well.
+
+8
+00:00:44,359 --> 00:00:48,740
+So there are a bunch of problems that you will be solving in this particular course.
+
+9
+00:00:49,000 --> 00:00:56,240
+Is it paid? No, it is absolutely free. And it covers a lot more problems than what the
+
+10
+00:00:56,240 --> 00:01:01,759
+course is. Well, you can buy any of the paid courses and you can have a comparison done as well.
+
+11
+00:01:02,320 --> 00:01:07,420
+So the next question, how do you get the best output of this particular course?
+
+12
+00:01:07,760 --> 00:01:14,599
+First of all, the course has like every topic has some theory and every topic has some problems.
+
+13
+00:01:15,000 --> 00:01:19,579
+Rather a lot of problems. For the theory part, what I will say is watch out the videos.
+
+14
+00:01:19,579 --> 00:01:28,000
+Just watch out the videos and do not dive the just more the topic and then start solving problems.
+
+15
+00:01:28,260 --> 00:01:33,879
+Because in DSA I'll go, a theory is not that important. Solving problems is important because
+
+16
+00:01:33,879 --> 00:01:39,739
+that will help you to develop the problem solving ability. Got it. So watch out the videos.
+
+17
+00:01:40,200 --> 00:01:48,319
+Do not dive much and then start solving problems. Stempice. Pick up a problem according to the
+
+18
+00:01:48,319 --> 00:01:52,319
+problem. Now when I'm saying, try out that problem means if you have a extreme naive solution,
+
+19
+00:01:52,480 --> 00:01:59,000
+extreme brute solution hit it convert your thought process into the code right it and some method
+
+20
+00:01:59,000 --> 00:02:04,900
+doesn't work doesn't matter. It de blocks there are blocks attached to every problem and solutions are
+
+21
+00:02:04,900 --> 00:02:11,419
+categorized if a problem has multiple solution you'll find categorized. So you can read out all of them.
+
+22
+00:02:11,520 --> 00:02:16,400
+If you're not able to understand, watch out the videos and for every problem that you're not
+
+23
+00:02:16,400 --> 00:02:22,120
+able to understand or there is something new. Create nodes so that you can revise afterwards.
+
+24
+00:02:23,020 --> 00:02:28,800
+Right? And then again, re-try whatever solution you have learned. Retry without watching the video
+
+25
+00:02:28,800 --> 00:02:35,759
+without watching the block. Retry. This should be your method of learning. Got it. And this is how you
+
+26
+00:02:35,759 --> 00:02:41,120
+can get the best output. But in order to get a accelerated output, what I will recommend you is
+
+27
+00:02:41,360 --> 00:02:48,340
+to get a mentor from pre-placed. A pre-placed is a website which offers amazing mentors.
+
+28
+00:02:48,439 --> 00:02:54,360
+The mentors who are working at fan companies or in-depth talk product based companies. So if you get
+
+29
+00:02:54,360 --> 00:02:59,120
+a mentor, what will happen is they will have a personalized roadmap. Along with DSS system design,
+
+30
+00:02:59,139 --> 00:03:03,360
+low level design, whatever you require, they'll give you a personalized roadmap and they'll have
+
+31
+00:03:03,360 --> 00:03:11,159
+it online check. One week for arrays. After one week, hey did you complete arrays? Let's have a
+
+32
+00:03:11,159 --> 00:03:17,900
+lot of resources on system design. Low level design, DSL go and other things project ideas. Since
+
+33
+00:03:17,900 --> 00:03:23,219
+this people work in industry, they know how everything works. So they'll be giving you project ideas as
+
+34
+00:03:23,219 --> 00:03:28,439
+well. After that, once you're prepared, you will be able to have mock interviews with them before
+
+35
+00:03:28,439 --> 00:03:34,159
+the real interview. Resume reviews. According to the jobs that you are applying, you can ask them to
+
+36
+00:03:34,159 --> 00:03:40,060
+review your resumes. You can have refills from them as well and from their friends as well. And right
+
+37
+00:03:40,060 --> 00:03:45,300
+the end, you can have a personalized discount code from them. So if you are liking a mentor,
+
+38
+00:03:45,680 --> 00:03:50,039
+ask them for a discount coupon code. They will be giving you if they do not, you can use
+
+39
+00:03:50,039 --> 00:03:54,740
+Striva 1000 for an extra 1000 threads. So anyway, we got the link in the description. You can
+
+40
+00:03:54,740 --> 00:03:59,800
+book a free trial session with any of the mentor. It's absolutely free. Go and check it out.
+
+41
+00:04:00,039 --> 00:04:07,520
+So let's head over to the next part. Covered to right scam. So there is a lot of misinformation in the market
+
+42
+00:04:07,520 --> 00:04:13,860
+because it's not paid. It's actually taking a lot of businesses. As I said, we have 90
+
+43
+00:04:13,860 --> 00:04:19,300
+lakh visits on this course in the last 1.5 years. So first of all, the first thing that everyone
+
+44
+00:04:19,300 --> 00:04:26,699
+is saying is this course is in C++. Absolute garbage absolute nonsense. So I have one video
+
+45
+00:04:26,699 --> 00:04:33,879
+the initial video that that says C++ in one shot. That's it. That's it. Haven't made the video
+
+46
+00:04:33,879 --> 00:04:39,600
+in one shot. But apart from this video, you pick up any topic. I'm throwing an open challenge.
+
+47
+00:04:39,720 --> 00:04:45,240
+Pick up any topic. Arase, trees, DP, grass, any of the topics. We'll find that I write
+
+48
+00:04:45,240 --> 00:04:50,759
+pseudo code. I don't write code in C++. And in my blogs, we are attaching blogs,
+
+49
+00:04:51,939 --> 00:04:58,040
+notes to every problem. We'll find C++ Java Python JavaScript codes. So we are not teaching C++.
+
+50
+00:04:58,680 --> 00:05:06,120
+The entire course is in pseudo code. You're focusing on problem solving. Right?
+
+51
+00:05:06,480 --> 00:05:11,699
+As a second thing is it's not beginner friendly. This is something which everyone
+
+52
+00:05:11,699 --> 00:05:18,600
+like the influence is spreading to because it's a free course. So what I'll ask you to do is
+
+53
+00:05:18,600 --> 00:05:22,740
+and not say anything. Each of the many of you seniors who are who got recently placed.
+
+54
+00:05:22,779 --> 00:05:26,759
+As them, here's this guy's driver. Should we follow him? Should we follow the
+
+55
+00:05:26,759 --> 00:05:31,339
+rivals? He to set the AC course. You can find reviews on building. You can find reviews on Twitter,
+
+56
+00:05:31,480 --> 00:05:36,959
+and in any way you wish to. Post it to people will tell you the reviews of this course. Do not
+
+57
+00:05:36,959 --> 00:05:43,720
+ask an influencer or anyone who is running a business around this one. Got it? It is absolutely
+
+58
+00:05:43,720 --> 00:05:49,500
+big enough. And that is why it has 450 5 modules. But I start from easy, then go to medium. And
+
+59
+00:05:49,500 --> 00:05:56,740
+then I cover a lot of advanced problems with a lot of paid courses in the market of a lot of
+
+60
+00:05:56,740 --> 00:06:03,360
+basic, easy, in depth. And when it comes to medium and hard, they tend to skip. You can pick up any
+
+61
+00:06:03,360 --> 00:06:10,339
+of the free DSC courses. They will end up at 170, 180, 200 at max. And they'll be skipping the
+
+62
+00:06:10,339 --> 00:06:14,399
+advanced problems or they'll be doing three or four of them. But over here, now, of course,
+
+63
+00:06:14,480 --> 00:06:26,720
+we do a bunch of advanced problems. So it has stuff, but in order to exceed, you need to do
+
+64
+00:06:26,720 --> 00:06:35,120
+any, frankly, the course has around 250 to 300 concepts or problems for every concept at multiple
+
+65
+00:06:35,120 --> 00:06:40,779
+problems. So if you are understanding a concept, it might have a four, four, four problems.
+
+66
+00:06:41,199 --> 00:06:45,319
+So you can solve two and you can skip the rest two. That is your wish. It's not necessarily
+
+67
+00:06:45,319 --> 00:06:51,120
+to solve 455. I've given them per practice for your betterment. Got it. The next thing.
+
+68
+00:06:51,120 --> 00:06:56,800
+Along with the course, what else should you do? One thing is an absolute must,
+
+69
+00:06:57,160 --> 00:07:02,339
+quantities. Head over to read code. So basically, need code. There's a website as read code,
+
+70
+00:07:02,420 --> 00:07:07,759
+head over to court forces. Give every point this. So there is something in the market that,
+
+71
+00:07:08,699 --> 00:07:13,779
+like a lot of bigness thing that I should learn everything. And then I should start appearing for
+
+72
+00:07:13,779 --> 00:07:18,819
+contest. Do not do that. You know, basic programming, start appearing on the contest.
+
+73
+00:07:18,819 --> 00:07:23,939
+Even if you're able to solve one problem, that is absolutely fine. Give every contest for the next
+
+74
+00:07:23,939 --> 00:07:29,360
+two years. Give every contest along with learning DS algorithm. To be able to learn,
+
+75
+00:07:29,439 --> 00:07:35,040
+you'll come back and say me, you wear correct, giving contest actually helped me to learn, because
+
+76
+00:07:35,040 --> 00:07:42,240
+it's a lot of new concepts, a lot of new unseen problems. So you'll learn a lot, lot more, got it.
+
+77
+00:07:43,060 --> 00:07:48,680
+So to be leaving out the link of this particular A2 set, DSC course, in the description, I'll
+
+78
+00:07:48,680 --> 00:07:53,920
+leaving out the link of pre-placed. You can book free trial with any of the mentors you wish to
+
+79
+00:07:53,920 --> 00:07:58,199
+and get onboarded with them. If you haven't fallen beyond, social media, I'll be leaving out all the
+
+80
+00:07:58,199 --> 00:08:03,959
+social media handles in the description as well. With this, I'll be wrapping up this video. Make sure
+
+81
+00:08:03,959 --> 00:08:08,000
+to follow the website, not the YouTube channel. With this, I'll be wrapping up this video. Let's

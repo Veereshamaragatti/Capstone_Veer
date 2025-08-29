@@ -1,139 +1,167 @@
 1
 00:00:00,000 --> 00:00:06,599
-the trippy by NB files and you are free to collaborate with your classmates but just try the
+the trippy by Indefice and you are free to collaborate with your classmates but just try the
 
 2
 00:00:06,599 --> 00:00:12,480
 name of the people you collaborated with at the top of the worksheet. So, as is introduced
 
 3
-00:00:12,480 --> 00:00:17,620
+00:00:12,480 --> 00:00:17,640
 the worksheet still by the worksheet two ways on simple linear regression and down multiple
 
 4
-00:00:17,620 --> 00:00:24,940
+00:00:17,640 --> 00:00:24,920
 linear regression. You will have to just plot a scatter plot and build a linear regression model
 
 5
-00:00:24,940 --> 00:00:31,600
+00:00:24,920 --> 00:00:31,600
 which have to check if it follows the OS assumptions and validate the linear regression model.
 
 6
-00:00:32,399 --> 00:00:40,280
+00:00:32,380 --> 00:00:40,280
 Then the multiple linear regression have to plot a corralogram and check which contribute
 
 7
-00:00:40,280 --> 00:00:45,659
+00:00:40,280 --> 00:00:45,719
 most to the target variable and build a multiple linear regression model based on that.
 
 8
-00:00:47,119 --> 00:00:54,320
+00:00:47,119 --> 00:00:54,280
 Worksheep 2B is based on rich regression, last so and elastic regression. You have to
 
 9
-00:00:54,320 --> 00:01:00,200
-build all these three models. Worksheep 2B is on logistic regression. You have to just build
+00:00:54,280 --> 00:01:00,200
+build all these three models. So, she took me around logistic regression. You have to just build
 
 10
-00:01:00,880 --> 00:01:07,760
-logistic regression model and you are the ROC curve and a ROC value. So, the last data summit will be
+00:01:00,200 --> 00:01:06,260
+all logistic regression model and you are the ROC curve and you are the C value. So,
 
 11
-00:01:07,760 --> 00:01:15,719
-28 September. Before constructing the core core logogram you can use anything label and coding
+00:01:06,359 --> 00:01:15,239
+the last date of summer will be 28 September. Before constructing the corralogram you can use
 
 12
-00:01:15,719 --> 00:01:24,599
-one more thing. This can ask your doubts in the chat or you can raise your hand will unmute you.
+00:01:15,239 --> 00:01:20,359
+anything label and coding or one more 10 code. This can ask
 
 13
-00:01:27,739 --> 00:01:33,120
-There will be another creation four or five days before that it lines. So, by then your
+00:01:22,039 --> 00:01:25,560
+your doubts in the chat or you can raise your hand will unmute you.
 
 14
-00:01:33,120 --> 00:01:40,060
-portion should be covered. So, you will be able to solve and ask more questions at time.
+00:01:28,939 --> 00:01:35,159
+There will be another creation four five days before that it lines. So, by then your portion should
 
 15
-00:01:40,060 --> 00:01:46,700
-But if you have any doubts you can put it in the chat or unmute or raise your hand will unmute.
+00:01:35,159 --> 00:01:42,939
+be covered. So, you will be able to solve and ask more questions that time. But if you have any doubts
 
 16
-00:01:48,260 --> 00:01:53,400
-You can just use the libraries to build the model. Like for linear regression model you can use
+00:01:42,939 --> 00:01:47,819
+you can put it in the chat or unmute or raise your hand will unmute.
 
 17
-00:01:53,400 --> 00:02:02,019
-LM and for worksheet 2B you can use GLM net. You need not build one from scan just import the
+00:01:49,599 --> 00:01:55,519
+It can just use the libraries to build the model. Like for linear regression model you can use LM
 
 18
-00:02:02,019 --> 00:02:08,280
-life duties. You can use any library you want. There is no compression on the syntax you can use
+00:01:55,519 --> 00:02:03,319
+and for worksheet 2B you can use GLM net. You need not build one from scouts just import the
 
 19
-00:02:08,280 --> 00:02:20,719
-any libraries. Which question the OLS assumptions? For OLS assumptions you can do like three. You can
+00:02:03,319 --> 00:02:09,580
+life duties. You can use any library you want. There is no compression on the syntax you can use
 
 20
-00:02:20,719 --> 00:02:28,180
-check if the residuals are residuals for the normal distribution. You can check with homosadacity
+00:02:09,580 --> 00:02:22,319
+any libraries. Which question the OLS assumptions? For OLS assumptions you can do like 3. You can check
 
 21
-00:02:28,180 --> 00:02:33,560
-and you can check for the linear relationship. You can do three that is enough.
+00:02:22,319 --> 00:02:30,080
+if the residuals are residuals for the normal distribution. You can check with homoced acidity
 
 22
-00:02:33,560 --> 00:02:42,539
-Let us answer your question. If you did as a map down it will be better and professional. If it is
+00:02:30,080 --> 00:02:34,840
+and you can check for the linear relationship. You can do 3 that is enough.
 
 23
-00:02:42,539 --> 00:02:53,080
-code then use the code. Both graphs and write ups because try to add your analysis as much as possible
+00:02:34,840 --> 00:02:43,319
+Let us answer your question. If you did as a map down it will be better and professional. If it is
 
 24
-00:02:53,080 --> 00:03:01,560
-not only code. So, add comments or map down whatever you are plotting. Ignase you can unmute and
+00:02:43,879 --> 00:02:54,379
+code then use the code. Both graphs and write ups because try to add your analysis as much as possible
 
 25
-00:03:01,560 --> 00:03:03,740
-pause the question.
+00:02:54,379 --> 00:03:02,439
+not only code so add comments or map down for whatever you are plotting. Ignase you can unmute
 
 26
-00:03:18,139 --> 00:03:23,319
-So, you can add a map down cell and answer in that cell after each question.
+00:03:02,439 --> 00:03:24,439
+and ask the question. Yes. Inverse you can add a map down cell and answer in that cell after each
 
 27
-00:03:25,770 --> 00:03:35,770
-Yes. Yes. Yes. Yes. I do. The histogram of residuals is in the normal distribution. But do
+00:03:24,439 --> 00:03:40,080
+question. The histogram of residuals is in a polynomial distribution. But do add like a text
 
 28
-00:03:35,770 --> 00:03:53,409
-add like a text. I will just do not add the code. I do not write the code for plotting
+00:03:42,160 --> 00:03:50,560
+or code that you want to write the code for plotting histogram and do it. Do add analysis of
 
 29
-00:03:53,409 --> 00:04:00,129
-whatever you want to write the text or analysis and code cells when you want to execute the code.
+00:03:50,560 --> 00:03:58,060
+the graph. If you add a map down code just add map down cell whenever you want to write the
 
 30
-00:04:00,430 --> 00:04:05,870
-Add there any more questions or mission random. There will be another T.S. session
+00:03:58,060 --> 00:04:03,879
+text or analysis and code cells when you want to execute the code. Add there are any more questions
 
 31
-00:04:06,870 --> 00:04:12,949
-profile days before the deadline. So, you guys should the portion should be covered by then.
+00:04:03,879 --> 00:04:08,259
+but Michelin Dhamme, there'll be another T.S. session,
 
 32
-00:04:13,210 --> 00:04:18,769
-So, you guys should be able to solve that. About the hackathon we will let you know. So,
+00:04:08,539 --> 00:04:11,159
+our profile days before the deadline.
 
 33
-00:04:18,769 --> 00:04:23,250
-you guys have any more questions. Okay. We lent them. Thank you for joining us.
+00:04:12,280 --> 00:04:15,259
+So you guys should, the portion should be covered by then.
 
 34
-00:04:24,550 --> 00:04:29,149
-If any of you have missed the first part of this session, you'll make the recording available.
+00:04:15,500 --> 00:04:17,740
+So you guys should be able to solve that.
 
 35
-00:04:29,350 --> 00:04:31,649
-You guys can catch up with that. Thank you.
+00:04:18,040 --> 00:04:20,680
+About the hackathon we'll let you know.
+
+36
+00:04:21,019 --> 00:04:22,540
+So do you guys have any more questions?
+
+37
+00:04:23,000 --> 00:04:24,579
+Okay, that will end the meet.
+
+38
+00:04:24,579 --> 00:04:26,139
+Thank you for joining us.
+
+39
+00:04:26,819 --> 00:04:29,740
+If any of you have missed the first part of this session,
+
+40
+00:04:30,120 --> 00:04:31,519
+we'll make the recording available.
+
+41
+00:04:31,519 --> 00:04:33,379
+You guys can catch up with that.
+
+42
+00:04:33,540 --> 00:04:33,959
+Thank you.

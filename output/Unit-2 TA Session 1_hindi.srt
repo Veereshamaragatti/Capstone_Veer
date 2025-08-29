@@ -1,139 +1,167 @@
 1
 00:00:00,000 --> 00:00:06,599
-the trippy by NB files and you are free to collaborate with your classmates but just try the
+अनिश्चितकालीन द्वारा त्रिप्पी और आप अपने सहपाठियों के साथ सहयोग करने के लिए स्वतंत्र हैं, लेकिन बस कोशिश करें
 
 2
 00:00:06,599 --> 00:00:12,480
-name of the people you collaborated with at the top of the worksheet. So, as is introduced
+उन लोगों का नाम जो आपने वर्कशीट के शीर्ष पर सहयोग किया था।तो, जैसा कि पेश किया गया है
 
 3
-00:00:12,480 --> 00:00:17,620
-the worksheet still by the worksheet two ways on simple linear regression and down multiple
+00:00:12,480 --> 00:00:17,640
+वर्कशीट अभी भी सरल रैखिक प्रतिगमन और डाउन मल्टीपल पर दो तरीके
 
 4
-00:00:17,620 --> 00:00:24,940
-linear regression. You will have to just plot a scatter plot and build a linear regression model
+00:00:17,640 --> 00:00:24,920
+रैखिक प्रतिगमन।आपको बस एक स्कैटर प्लॉट की साजिश करनी होगी और एक रैखिक प्रतिगमन मॉडल का निर्माण करना होगा
 
 5
-00:00:24,940 --> 00:00:31,600
-which have to check if it follows the OS assumptions and validate the linear regression model.
+00:00:24,920 --> 00:00:31,600
+जो यह जांचना है कि क्या यह OS मान्यताओं का पालन करता है और रैखिक प्रतिगमन मॉडल को मान्य करता है।
 
 6
-00:00:32,399 --> 00:00:40,280
-Then the multiple linear regression have to plot a corralogram and check which contribute
+00:00:32,380 --> 00:00:40,280
+तब कई रैखिक प्रतिगमन को एक कोरलोग्राम की साजिश करनी होती है और जांच होती है कि जो योगदान देता है
 
 7
-00:00:40,280 --> 00:00:45,659
-most to the target variable and build a multiple linear regression model based on that.
+00:00:40,280 --> 00:00:45,719
+लक्ष्य चर के लिए सबसे अधिक और उस पर आधारित एक कई रैखिक प्रतिगमन मॉडल का निर्माण करें।
 
 8
-00:00:47,119 --> 00:00:54,320
-Worksheep 2B is based on rich regression, last so and elastic regression. You have to
+00:00:47,119 --> 00:00:54,280
+वर्कशीट 2 समृद्ध प्रतिगमन, अंतिम एसओ और लोचदार प्रतिगमन पर आधारित है।आपको करना होगा
 
 9
-00:00:54,320 --> 00:01:00,200
-build all these three models. Worksheep 2B is on logistic regression. You have to just build
+00:00:54,280 --> 00:01:00,200
+इन तीनों मॉडलों का निर्माण करें।इसलिए, वह मुझे लॉजिस्टिक रिग्रेशन के आसपास ले गई।आपको बस निर्माण करना है
 
 10
-00:01:00,880 --> 00:01:07,760
-logistic regression model and you are the ROC curve and a ROC value. So, the last data summit will be
+00:01:00,200 --> 00:01:06,260
+सभी लॉजिस्टिक रिग्रेशन मॉडल और आप आरओसी वक्र हैं और आप सी मान हैं।इसलिए,
 
 11
-00:01:07,760 --> 00:01:15,719
-28 September. Before constructing the core core logogram you can use anything label and coding
+00:01:06,359 --> 00:01:15,239
+गर्मियों की अंतिम तिथि 28 सितंबर होगी।कोरलोग्राम के निर्माण से पहले आप उपयोग कर सकते हैं
 
 12
-00:01:15,719 --> 00:01:24,599
-one more thing. This can ask your doubts in the chat or you can raise your hand will unmute you.
+00:01:15,239 --> 00:01:20,359
+कुछ भी लेबल और कोडिंग या एक और 10 कोड।यह पूछ सकता है
 
 13
-00:01:27,739 --> 00:01:33,120
-There will be another creation four or five days before that it lines. So, by then your
+00:01:22,039 --> 00:01:25,560
+चैट में आपका संदेह या आप अपना हाथ बढ़ा सकते हैं।
 
 14
-00:01:33,120 --> 00:01:40,060
-portion should be covered. So, you will be able to solve and ask more questions at time.
+00:01:28,939 --> 00:01:35,159
+चार दिन पहले एक और रचना होगी, इससे पहले कि यह लाइनें।तो, तब तक आपका हिस्सा होना चाहिए
 
 15
-00:01:40,060 --> 00:01:46,700
-But if you have any doubts you can put it in the chat or unmute or raise your hand will unmute.
+00:01:35,159 --> 00:01:42,939
+सम्मिलित हुआ।तो, आप उस समय अधिक प्रश्नों को हल करने और पूछने में सक्षम होंगे।लेकिन अगर आपको कोई संदेह है
 
 16
-00:01:48,260 --> 00:01:53,400
-You can just use the libraries to build the model. Like for linear regression model you can use
+00:01:42,939 --> 00:01:47,819
+आप इसे चैट में रख सकते हैं या अनम्यूट कर सकते हैं या अपना हाथ बढ़ा सकते हैं।
 
 17
-00:01:53,400 --> 00:02:02,019
-LM and for worksheet 2B you can use GLM net. You need not build one from scan just import the
+00:01:49,599 --> 00:01:55,519
+यह सिर्फ मॉडल बनाने के लिए पुस्तकालयों का उपयोग कर सकता है।रैखिक प्रतिगमन मॉडल की तरह आप एलएम का उपयोग कर सकते हैं
 
 18
-00:02:02,019 --> 00:02:08,280
-life duties. You can use any library you want. There is no compression on the syntax you can use
+00:01:55,519 --> 00:02:03,319
+और वर्कशीट 2 बी के लिए आप जीएलएम नेट का उपयोग कर सकते हैं।आपको स्काउट्स से एक का निर्माण करने की आवश्यकता नहीं है बस आयात करें
 
 19
-00:02:08,280 --> 00:02:20,719
-any libraries. Which question the OLS assumptions? For OLS assumptions you can do like three. You can
+00:02:03,319 --> 00:02:09,580
+जीवन कर्तव्यों।आप अपनी इच्छानुसार किसी भी लाइब्रेरी का उपयोग कर सकते हैं।आपके द्वारा उपयोग किए जा सकने वाले वाक्यविन्यास पर कोई संपीड़न नहीं है
 
 20
-00:02:20,719 --> 00:02:28,180
-check if the residuals are residuals for the normal distribution. You can check with homosadacity
+00:02:09,580 --> 00:02:22,319
+कोई भी पुस्तकालय।ओएलएस धारणाओं का कौन सा सवाल?ओएलएस मान्यताओं के लिए आप 3 की तरह कर सकते हैं। आप जांच कर सकते हैं
 
 21
-00:02:28,180 --> 00:02:33,560
-and you can check for the linear relationship. You can do three that is enough.
+00:02:22,319 --> 00:02:30,080
+यदि अवशिष्ट सामान्य वितरण के लिए अवशिष्ट हैं।आप होमोकेड अम्लता के साथ जांच कर सकते हैं
 
 22
-00:02:33,560 --> 00:02:42,539
-Let us answer your question. If you did as a map down it will be better and professional. If it is
+00:02:30,080 --> 00:02:34,840
+और आप रैखिक संबंध की जांच कर सकते हैं।आप 3 कर सकते हैं जो पर्याप्त है।
 
 23
-00:02:42,539 --> 00:02:53,080
-code then use the code. Both graphs and write ups because try to add your analysis as much as possible
+00:02:34,840 --> 00:02:43,319
+आइए हम आपके प्रश्न का उत्तर दें।यदि आपने एक नक्शे के रूप में किया तो यह बेहतर और पेशेवर होगा।अगर यह है
 
 24
-00:02:53,080 --> 00:03:01,560
-not only code. So, add comments or map down whatever you are plotting. Ignase you can unmute and
+00:02:43,879 --> 00:02:54,379
+कोड तब कोड का उपयोग करें।दोनों रेखांकन और लिखते हैं क्योंकि जितना संभव हो उतना अपने विश्लेषण को जोड़ने का प्रयास करें
 
 25
-00:03:01,560 --> 00:03:03,740
-pause the question.
+00:02:54,379 --> 00:03:02,439
+न केवल कोड तो आप जो कुछ भी प्लॉट कर रहे हैं उसके लिए टिप्पणियां या मैप जोड़ें।इग्नास आप अनम्यूट कर सकते हैं
 
 26
-00:03:18,139 --> 00:03:23,319
-So, you can add a map down cell and answer in that cell after each question.
+00:03:02,439 --> 00:03:24,439
+और सवाल पूछें।हाँ।उलटा आप एक मैप डाउन सेल जोड़ सकते हैं और प्रत्येक के बाद उस सेल में उत्तर दे सकते हैं
 
 27
-00:03:25,770 --> 00:03:35,770
-Yes. Yes. Yes. Yes. I do. The histogram of residuals is in the normal distribution. But do
+00:03:24,439 --> 00:03:40,080
+सवाल।अवशिष्टों का हिस्टोग्राम एक बहुपद वितरण में है।लेकिन एक पाठ की तरह जोड़ें
 
 28
-00:03:35,770 --> 00:03:53,409
-add like a text. I will just do not add the code. I do not write the code for plotting
+00:03:42,160 --> 00:03:50,560
+या कोड जिसे आप हिस्टोग्राम की साजिश रचने के लिए कोड लिखना चाहते हैं और इसे करते हैं।का विश्लेषण जोड़ें
 
 29
-00:03:53,409 --> 00:04:00,129
-whatever you want to write the text or analysis and code cells when you want to execute the code.
+00:03:50,560 --> 00:03:58,060
+ग्राफ।यदि आप एक मैप डाउन कोड जोड़ते हैं, तो जब भी आप लिखना चाहते हैं तो केवल मैप डाउन सेल जोड़ें
 
 30
-00:04:00,430 --> 00:04:05,870
-Add there any more questions or mission random. There will be another T.S. session
+00:03:58,060 --> 00:04:03,879
+जब आप कोड को निष्पादित करना चाहते हैं तो पाठ या विश्लेषण और कोड कोशिकाएं।जोड़ें कोई और प्रश्न हैं
 
 31
-00:04:06,870 --> 00:04:12,949
-profile days before the deadline. So, you guys should the portion should be covered by then.
+00:04:03,879 --> 00:04:08,259
+लेकिन मिशेलिन धम्म, एक और टी.एस.सत्र,
 
 32
-00:04:13,210 --> 00:04:18,769
-So, you guys should be able to solve that. About the hackathon we will let you know. So,
+00:04:08,539 --> 00:04:11,159
+समय सीमा से पहले हमारी प्रोफ़ाइल।
 
 33
-00:04:18,769 --> 00:04:23,250
-you guys have any more questions. Okay. We lent them. Thank you for joining us.
+00:04:12,280 --> 00:04:15,259
+तो आप लोगों को होना चाहिए, तब तक भाग को कवर किया जाना चाहिए।
 
 34
-00:04:24,550 --> 00:04:29,149
-If any of you have missed the first part of this session, you'll make the recording available.
+00:04:15,500 --> 00:04:17,740
+तो आप लोगों को इसे हल करने में सक्षम होना चाहिए।
 
 35
-00:04:29,350 --> 00:04:31,649
-You guys can catch up with that. Thank you.
+00:04:18,040 --> 00:04:20,680
+हैकथॉन के बारे में हम आपको बताएंगे।
+
+36
+00:04:21,019 --> 00:04:22,540
+तो क्या आप लोगों के पास कोई और सवाल है?
+
+37
+00:04:23,000 --> 00:04:24,579
+ठीक है, यह मुलाकात समाप्त हो जाएगा।
+
+38
+00:04:24,579 --> 00:04:26,139
+हमसे जुडने के लिए तुम्हारा शुक्रिया।
+
+39
+00:04:26,819 --> 00:04:29,740
+यदि आप में से कोई भी इस सत्र के पहले भाग से चूक गया है,
+
+40
+00:04:30,120 --> 00:04:31,519
+हम रिकॉर्डिंग उपलब्ध कराएंगे।
+
+41
+00:04:31,519 --> 00:04:33,379
+आप लोग उस के साथ पकड़ सकते हैं।
+
+42
+00:04:33,540 --> 00:04:33,959
+धन्यवाद।

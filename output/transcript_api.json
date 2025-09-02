@@ -1,0 +1,1114 @@
+{
+  "text": " Welcome to Sitsisik in Whiteboard and today lesson stand what is an API? So, an API stands for application programming interface and is a set of rules that protocols that defines how two software programs or systems can communicate with each other. It acts as an intermediary between the two systems along them to exchange data and functionality. For example, an API might allow a mobile app to access data from a database or it might allow a website to access the functionality of a third party service like a payment processor. APIs are an important part of modern software development as they enable different software programs and systems to work together and share data and functionality. They are used in a wide range of applications including web development, mobile development and data analysis.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.78,
+      "text": " Welcome to Sitsisik in Whiteboard and today lesson stand what is an API?",
+      "tokens": [
+        50364,
+        4027,
+        281,
+        318,
+        1208,
+        271,
+        1035,
+        294,
+        5552,
+        3787,
+        293,
+        965,
+        6898,
+        1463,
+        437,
+        307,
+        364,
+        9362,
+        30,
+        50568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29349608560210294,
+      "compression_ratio": 1.6788321167883211,
+      "no_speech_prob": 0.0034583481028676033,
+      "words": [
+        {
+          "word": " Welcome",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.9069602489471436
+        },
+        {
+          "word": " to",
+          "start": 0.52,
+          "end": 0.78,
+          "probability": 0.9906154870986938
+        },
+        {
+          "word": " Sitsisik",
+          "start": 0.78,
+          "end": 1.16,
+          "probability": 0.1412839638069272
+        },
+        {
+          "word": " in",
+          "start": 1.16,
+          "end": 1.22,
+          "probability": 0.1604587882757187
+        },
+        {
+          "word": " Whiteboard",
+          "start": 1.22,
+          "end": 1.7,
+          "probability": 0.38106009364128113
+        },
+        {
+          "word": " and",
+          "start": 1.7,
+          "end": 2.04,
+          "probability": 0.672335147857666
+        },
+        {
+          "word": " today",
+          "start": 2.04,
+          "end": 2.22,
+          "probability": 0.90631502866745
+        },
+        {
+          "word": " lesson",
+          "start": 2.22,
+          "end": 2.44,
+          "probability": 0.1906546950340271
+        },
+        {
+          "word": " stand",
+          "start": 2.44,
+          "end": 2.82,
+          "probability": 0.46678078174591064
+        },
+        {
+          "word": " what",
+          "start": 2.82,
+          "end": 3.08,
+          "probability": 0.6018145084381104
+        },
+        {
+          "word": " is",
+          "start": 3.08,
+          "end": 3.42,
+          "probability": 0.9882277846336365
+        },
+        {
+          "word": " an",
+          "start": 3.42,
+          "end": 3.54,
+          "probability": 0.9107071161270142
+        },
+        {
+          "word": " API?",
+          "start": 3.54,
+          "end": 3.78,
+          "probability": 0.967022716999054
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.36,
+      "end": 9.06,
+      "text": " So, an API stands for application programming interface and is a set of rules that protocols that",
+      "tokens": [
+        50568,
+        407,
+        11,
+        364,
+        9362,
+        7382,
+        337,
+        3861,
+        9410,
+        9226,
+        293,
+        307,
+        257,
+        992,
+        295,
+        4474,
+        300,
+        20618,
+        300,
+        50808
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29349608560210294,
+      "compression_ratio": 1.6788321167883211,
+      "no_speech_prob": 0.0034583481028676033,
+      "words": [
+        {
+          "word": " So,",
+          "start": 4.36,
+          "end": 4.74,
+          "probability": 0.8930459022521973
+        },
+        {
+          "word": " an",
+          "start": 4.82,
+          "end": 4.92,
+          "probability": 0.887321412563324
+        },
+        {
+          "word": " API",
+          "start": 4.92,
+          "end": 5.16,
+          "probability": 0.8711615800857544
+        },
+        {
+          "word": " stands",
+          "start": 5.16,
+          "end": 5.46,
+          "probability": 0.99689120054245
+        },
+        {
+          "word": " for",
+          "start": 5.46,
+          "end": 5.72,
+          "probability": 0.9992535710334778
+        },
+        {
+          "word": " application",
+          "start": 5.72,
+          "end": 6.14,
+          "probability": 0.5200855731964111
+        },
+        {
+          "word": " programming",
+          "start": 6.14,
+          "end": 6.64,
+          "probability": 0.9917680025100708
+        },
+        {
+          "word": " interface",
+          "start": 6.64,
+          "end": 7.14,
+          "probability": 0.9964466691017151
+        },
+        {
+          "word": " and",
+          "start": 7.14,
+          "end": 7.5,
+          "probability": 0.8280876278877258
+        },
+        {
+          "word": " is",
+          "start": 7.5,
+          "end": 7.64,
+          "probability": 0.9551209807395935
+        },
+        {
+          "word": " a",
+          "start": 7.64,
+          "end": 7.76,
+          "probability": 0.9724147915840149
+        },
+        {
+          "word": " set",
+          "start": 7.76,
+          "end": 7.84,
+          "probability": 0.9924265146255493
+        },
+        {
+          "word": " of",
+          "start": 7.84,
+          "end": 8.02,
+          "probability": 0.9949604272842407
+        },
+        {
+          "word": " rules",
+          "start": 8.02,
+          "end": 8.2,
+          "probability": 0.9883884787559509
+        },
+        {
+          "word": " that",
+          "start": 8.2,
+          "end": 8.36,
+          "probability": 0.5242819786071777
+        },
+        {
+          "word": " protocols",
+          "start": 8.36,
+          "end": 8.74,
+          "probability": 0.39932817220687866
+        },
+        {
+          "word": " that",
+          "start": 8.74,
+          "end": 9.06,
+          "probability": 0.8767056465148926
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.06,
+      "end": 14.2,
+      "text": " defines how two software programs or systems can communicate with each other. It acts as an",
+      "tokens": [
+        50808,
+        23122,
+        577,
+        732,
+        4722,
+        4268,
+        420,
+        3652,
+        393,
+        7890,
+        365,
+        1184,
+        661,
+        13,
+        467,
+        10672,
+        382,
+        364,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29349608560210294,
+      "compression_ratio": 1.6788321167883211,
+      "no_speech_prob": 0.0034583481028676033,
+      "words": [
+        {
+          "word": " defines",
+          "start": 9.06,
+          "end": 9.4,
+          "probability": 0.971698522567749
+        },
+        {
+          "word": " how",
+          "start": 9.4,
+          "end": 9.84,
+          "probability": 0.9814411401748657
+        },
+        {
+          "word": " two",
+          "start": 9.84,
+          "end": 10.02,
+          "probability": 0.6105246543884277
+        },
+        {
+          "word": " software",
+          "start": 10.02,
+          "end": 10.3,
+          "probability": 0.9845613241195679
+        },
+        {
+          "word": " programs",
+          "start": 10.3,
+          "end": 10.72,
+          "probability": 0.9648945331573486
+        },
+        {
+          "word": " or",
+          "start": 10.72,
+          "end": 11.04,
+          "probability": 0.9411687850952148
+        },
+        {
+          "word": " systems",
+          "start": 11.04,
+          "end": 11.38,
+          "probability": 0.9929163455963135
+        },
+        {
+          "word": " can",
+          "start": 11.38,
+          "end": 11.7,
+          "probability": 0.9924207329750061
+        },
+        {
+          "word": " communicate",
+          "start": 11.7,
+          "end": 12.02,
+          "probability": 0.9973729848861694
+        },
+        {
+          "word": " with",
+          "start": 12.02,
+          "end": 12.4,
+          "probability": 0.9947900772094727
+        },
+        {
+          "word": " each",
+          "start": 12.4,
+          "end": 12.62,
+          "probability": 0.9990531802177429
+        },
+        {
+          "word": " other.",
+          "start": 12.62,
+          "end": 13.02,
+          "probability": 0.9897202849388123
+        },
+        {
+          "word": " It",
+          "start": 13.28,
+          "end": 13.54,
+          "probability": 0.9719952940940857
+        },
+        {
+          "word": " acts",
+          "start": 13.54,
+          "end": 13.76,
+          "probability": 0.9936884045600891
+        },
+        {
+          "word": " as",
+          "start": 13.76,
+          "end": 14.02,
+          "probability": 0.9967645406723022
+        },
+        {
+          "word": " an",
+          "start": 14.02,
+          "end": 14.2,
+          "probability": 0.9946893453598022
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.2,
+      "end": 19.16,
+      "text": " intermediary between the two systems along them to exchange data and functionality. For example,",
+      "tokens": [
+        51064,
+        15184,
+        822,
+        1296,
+        264,
+        732,
+        3652,
+        2051,
+        552,
+        281,
+        7742,
+        1412,
+        293,
+        14980,
+        13,
+        1171,
+        1365,
+        11,
+        51316
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29349608560210294,
+      "compression_ratio": 1.6788321167883211,
+      "no_speech_prob": 0.0034583481028676033,
+      "words": [
+        {
+          "word": " intermediary",
+          "start": 14.2,
+          "end": 14.74,
+          "probability": 0.9837153255939484
+        },
+        {
+          "word": " between",
+          "start": 14.74,
+          "end": 15.04,
+          "probability": 0.995899498462677
+        },
+        {
+          "word": " the",
+          "start": 15.04,
+          "end": 15.22,
+          "probability": 0.7224817276000977
+        },
+        {
+          "word": " two",
+          "start": 15.22,
+          "end": 15.3,
+          "probability": 0.9800728559494019
+        },
+        {
+          "word": " systems",
+          "start": 15.3,
+          "end": 15.72,
+          "probability": 0.9944499731063843
+        },
+        {
+          "word": " along",
+          "start": 15.72,
+          "end": 16.12,
+          "probability": 0.6864907741546631
+        },
+        {
+          "word": " them",
+          "start": 16.12,
+          "end": 16.34,
+          "probability": 0.9360270500183105
+        },
+        {
+          "word": " to",
+          "start": 16.34,
+          "end": 16.48,
+          "probability": 0.984687864780426
+        },
+        {
+          "word": " exchange",
+          "start": 16.48,
+          "end": 16.76,
+          "probability": 0.9836143255233765
+        },
+        {
+          "word": " data",
+          "start": 16.76,
+          "end": 17.12,
+          "probability": 0.9933887720108032
+        },
+        {
+          "word": " and",
+          "start": 17.12,
+          "end": 17.38,
+          "probability": 0.9936162233352661
+        },
+        {
+          "word": " functionality.",
+          "start": 17.38,
+          "end": 17.86,
+          "probability": 0.9943109750747681
+        },
+        {
+          "word": " For",
+          "start": 18.62,
+          "end": 18.72,
+          "probability": 0.9942126870155334
+        },
+        {
+          "word": " example,",
+          "start": 18.72,
+          "end": 19.16,
+          "probability": 0.9961358904838562
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.28,
+      "end": 25.04,
+      "text": " an API might allow a mobile app to access data from a database or it might allow a website to access",
+      "tokens": [
+        51316,
+        364,
+        9362,
+        1062,
+        2089,
+        257,
+        6013,
+        724,
+        281,
+        2105,
+        1412,
+        490,
+        257,
+        8149,
+        420,
+        309,
+        1062,
+        2089,
+        257,
+        3144,
+        281,
+        2105,
+        51608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29349608560210294,
+      "compression_ratio": 1.6788321167883211,
+      "no_speech_prob": 0.0034583481028676033,
+      "words": [
+        {
+          "word": " an",
+          "start": 19.28,
+          "end": 19.48,
+          "probability": 0.9759901762008667
+        },
+        {
+          "word": " API",
+          "start": 19.48,
+          "end": 19.72,
+          "probability": 0.9946112632751465
+        },
+        {
+          "word": " might",
+          "start": 19.72,
+          "end": 19.94,
+          "probability": 0.9981396198272705
+        },
+        {
+          "word": " allow",
+          "start": 19.94,
+          "end": 20.24,
+          "probability": 0.9990422129631042
+        },
+        {
+          "word": " a",
+          "start": 20.24,
+          "end": 20.38,
+          "probability": 0.9926261305809021
+        },
+        {
+          "word": " mobile",
+          "start": 20.38,
+          "end": 20.64,
+          "probability": 0.9466917514801025
+        },
+        {
+          "word": " app",
+          "start": 20.64,
+          "end": 21.1,
+          "probability": 0.9949716329574585
+        },
+        {
+          "word": " to",
+          "start": 21.1,
+          "end": 21.42,
+          "probability": 0.9931122660636902
+        },
+        {
+          "word": " access",
+          "start": 21.42,
+          "end": 21.66,
+          "probability": 0.9900580048561096
+        },
+        {
+          "word": " data",
+          "start": 21.66,
+          "end": 22.02,
+          "probability": 0.9854051470756531
+        },
+        {
+          "word": " from",
+          "start": 22.02,
+          "end": 22.22,
+          "probability": 0.9778141379356384
+        },
+        {
+          "word": " a",
+          "start": 22.22,
+          "end": 22.34,
+          "probability": 0.9837650656700134
+        },
+        {
+          "word": " database",
+          "start": 22.34,
+          "end": 22.7,
+          "probability": 0.9957140684127808
+        },
+        {
+          "word": " or",
+          "start": 22.7,
+          "end": 23.28,
+          "probability": 0.8350681662559509
+        },
+        {
+          "word": " it",
+          "start": 23.28,
+          "end": 23.52,
+          "probability": 0.9877973198890686
+        },
+        {
+          "word": " might",
+          "start": 23.52,
+          "end": 23.68,
+          "probability": 0.9989768266677856
+        },
+        {
+          "word": " allow",
+          "start": 23.68,
+          "end": 23.92,
+          "probability": 0.9981367588043213
+        },
+        {
+          "word": " a",
+          "start": 23.92,
+          "end": 24.12,
+          "probability": 0.8282818794250488
+        },
+        {
+          "word": " website",
+          "start": 24.12,
+          "end": 24.36,
+          "probability": 0.9184776544570923
+        },
+        {
+          "word": " to",
+          "start": 24.36,
+          "end": 24.82,
+          "probability": 0.9967936873435974
+        },
+        {
+          "word": " access",
+          "start": 24.82,
+          "end": 25.04,
+          "probability": 0.9975927472114563
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2504,
+      "start": 25.04,
+      "end": 28.5,
+      "text": " the functionality of a third party service like a payment processor.",
+      "tokens": [
+        50364,
+        264,
+        14980,
+        295,
+        257,
+        2636,
+        3595,
+        2643,
+        411,
+        257,
+        10224,
+        15321,
+        13,
+        50552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21757266015717477,
+      "compression_ratio": 1.6570048309178744,
+      "no_speech_prob": 0.0075201052241027355,
+      "words": [
+        {
+          "word": " the",
+          "start": 25.04,
+          "end": 25.24,
+          "probability": 0.4503072500228882
+        },
+        {
+          "word": " functionality",
+          "start": 25.24,
+          "end": 25.64,
+          "probability": 0.986946165561676
+        },
+        {
+          "word": " of",
+          "start": 25.64,
+          "end": 25.98,
+          "probability": 0.9969647526741028
+        },
+        {
+          "word": " a",
+          "start": 25.98,
+          "end": 26.1,
+          "probability": 0.9629729986190796
+        },
+        {
+          "word": " third",
+          "start": 26.1,
+          "end": 26.3,
+          "probability": 0.9621198177337646
+        },
+        {
+          "word": " party",
+          "start": 26.3,
+          "end": 26.6,
+          "probability": 0.627322793006897
+        },
+        {
+          "word": " service",
+          "start": 26.6,
+          "end": 27.0,
+          "probability": 0.8828006386756897
+        },
+        {
+          "word": " like",
+          "start": 27.0,
+          "end": 27.62,
+          "probability": 0.8024755716323853
+        },
+        {
+          "word": " a",
+          "start": 27.62,
+          "end": 27.8,
+          "probability": 0.5894249081611633
+        },
+        {
+          "word": " payment",
+          "start": 27.8,
+          "end": 27.98,
+          "probability": 0.9558237195014954
+        },
+        {
+          "word": " processor.",
+          "start": 27.98,
+          "end": 28.5,
+          "probability": 0.9494520425796509
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2504,
+      "start": 29.22,
+      "end": 34.04,
+      "text": " APIs are an important part of modern software development as they enable different software programs",
+      "tokens": [
+        50552,
+        21445,
+        366,
+        364,
+        1021,
+        644,
+        295,
+        4363,
+        4722,
+        3250,
+        382,
+        436,
+        9528,
+        819,
+        4722,
+        4268,
+        50824
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21757266015717477,
+      "compression_ratio": 1.6570048309178744,
+      "no_speech_prob": 0.0075201052241027355,
+      "words": [
+        {
+          "word": " APIs",
+          "start": 29.22,
+          "end": 29.36,
+          "probability": 0.7825716733932495
+        },
+        {
+          "word": " are",
+          "start": 29.36,
+          "end": 29.76,
+          "probability": 0.9970118999481201
+        },
+        {
+          "word": " an",
+          "start": 29.76,
+          "end": 29.92,
+          "probability": 0.99310302734375
+        },
+        {
+          "word": " important",
+          "start": 29.92,
+          "end": 30.24,
+          "probability": 0.9990363121032715
+        },
+        {
+          "word": " part",
+          "start": 30.24,
+          "end": 30.6,
+          "probability": 0.9987144470214844
+        },
+        {
+          "word": " of",
+          "start": 30.6,
+          "end": 30.94,
+          "probability": 0.9989197254180908
+        },
+        {
+          "word": " modern",
+          "start": 30.94,
+          "end": 31.24,
+          "probability": 0.9805616736412048
+        },
+        {
+          "word": " software",
+          "start": 31.24,
+          "end": 31.56,
+          "probability": 0.988920271396637
+        },
+        {
+          "word": " development",
+          "start": 31.56,
+          "end": 32.0,
+          "probability": 0.9986044764518738
+        },
+        {
+          "word": " as",
+          "start": 32.0,
+          "end": 32.42,
+          "probability": 0.9790781140327454
+        },
+        {
+          "word": " they",
+          "start": 32.42,
+          "end": 32.64,
+          "probability": 0.4929243326187134
+        },
+        {
+          "word": " enable",
+          "start": 32.64,
+          "end": 33.0,
+          "probability": 0.9974488615989685
+        },
+        {
+          "word": " different",
+          "start": 33.0,
+          "end": 33.34,
+          "probability": 0.9253126978874207
+        },
+        {
+          "word": " software",
+          "start": 33.34,
+          "end": 33.6,
+          "probability": 0.9940365552902222
+        },
+        {
+          "word": " programs",
+          "start": 33.6,
+          "end": 34.04,
+          "probability": 0.9817490577697754
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2504,
+      "start": 34.04,
+      "end": 40.36,
+      "text": " and systems to work together and share data and functionality. They are used in a wide range of",
+      "tokens": [
+        50824,
+        293,
+        3652,
+        281,
+        589,
+        1214,
+        293,
+        2073,
+        1412,
+        293,
+        14980,
+        13,
+        814,
+        366,
+        1143,
+        294,
+        257,
+        4874,
+        3613,
+        295,
+        51124
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21757266015717477,
+      "compression_ratio": 1.6570048309178744,
+      "no_speech_prob": 0.0075201052241027355,
+      "words": [
+        {
+          "word": " and",
+          "start": 34.04,
+          "end": 34.6,
+          "probability": 0.9672257900238037
+        },
+        {
+          "word": " systems",
+          "start": 34.6,
+          "end": 34.96,
+          "probability": 0.9871346354484558
+        },
+        {
+          "word": " to",
+          "start": 34.96,
+          "end": 35.2,
+          "probability": 0.9948862195014954
+        },
+        {
+          "word": " work",
+          "start": 35.2,
+          "end": 35.4,
+          "probability": 0.9980377554893494
+        },
+        {
+          "word": " together",
+          "start": 35.4,
+          "end": 35.8,
+          "probability": 0.9994100332260132
+        },
+        {
+          "word": " and",
+          "start": 35.8,
+          "end": 36.36,
+          "probability": 0.9329962730407715
+        },
+        {
+          "word": " share",
+          "start": 36.36,
+          "end": 36.58,
+          "probability": 0.9902710914611816
+        },
+        {
+          "word": " data",
+          "start": 36.58,
+          "end": 37.0,
+          "probability": 0.9959254264831543
+        },
+        {
+          "word": " and",
+          "start": 37.0,
+          "end": 37.22,
+          "probability": 0.9963123202323914
+        },
+        {
+          "word": " functionality.",
+          "start": 37.22,
+          "end": 37.72,
+          "probability": 0.995408833026886
+        },
+        {
+          "word": " They",
+          "start": 38.58,
+          "end": 38.68,
+          "probability": 0.9573960900306702
+        },
+        {
+          "word": " are",
+          "start": 38.68,
+          "end": 38.82,
+          "probability": 0.9852023720741272
+        },
+        {
+          "word": " used",
+          "start": 38.82,
+          "end": 39.1,
+          "probability": 0.9969594478607178
+        },
+        {
+          "word": " in",
+          "start": 39.1,
+          "end": 39.46,
+          "probability": 0.9847332835197449
+        },
+        {
+          "word": " a",
+          "start": 39.46,
+          "end": 39.72,
+          "probability": 0.9694743752479553
+        },
+        {
+          "word": " wide",
+          "start": 39.72,
+          "end": 39.94,
+          "probability": 0.9559680223464966
+        },
+        {
+          "word": " range",
+          "start": 39.94,
+          "end": 40.18,
+          "probability": 0.9978839755058289
+        },
+        {
+          "word": " of",
+          "start": 40.18,
+          "end": 40.36,
+          "probability": 0.9975298047065735
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2504,
+      "start": 40.36,
+      "end": 43.92,
+      "text": " applications including web development, mobile development and data analysis.",
+      "tokens": [
+        51124,
+        5821,
+        3009,
+        3670,
+        3250,
+        11,
+        6013,
+        3250,
+        293,
+        1412,
+        5215,
+        13,
+        51324
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21757266015717477,
+      "compression_ratio": 1.6570048309178744,
+      "no_speech_prob": 0.0075201052241027355,
+      "words": [
+        {
+          "word": " applications",
+          "start": 40.36,
+          "end": 40.76,
+          "probability": 0.9951910972595215
+        },
+        {
+          "word": " including",
+          "start": 40.76,
+          "end": 41.3,
+          "probability": 0.8286629319190979
+        },
+        {
+          "word": " web",
+          "start": 41.3,
+          "end": 41.52,
+          "probability": 0.7831704020500183
+        },
+        {
+          "word": " development,",
+          "start": 41.52,
+          "end": 41.98,
+          "probability": 0.9564982056617737
+        },
+        {
+          "word": " mobile",
+          "start": 42.32,
+          "end": 42.44,
+          "probability": 0.9411795139312744
+        },
+        {
+          "word": " development",
+          "start": 42.44,
+          "end": 42.82,
+          "probability": 0.5578389167785645
+        },
+        {
+          "word": " and",
+          "start": 42.82,
+          "end": 43.3,
+          "probability": 0.8328352570533752
+        },
+        {
+          "word": " data",
+          "start": 43.3,
+          "end": 43.6,
+          "probability": 0.9935438632965088
+        },
+        {
+          "word": " analysis.",
+          "start": 43.6,
+          "end": 43.92,
+          "probability": 0.9936136603355408
+        }
+      ]
+    }
+  ],
+  "duration": 9,
+  "processing_device": "cpu",
+  "cuda_accelerated": false
+}

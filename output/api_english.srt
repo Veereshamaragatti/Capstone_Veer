@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:03,779
+Welcome to Sitsisik in Whiteboard and today lesson stand what is an API?
+
+2
+00:00:04,360 --> 00:00:09,060
+So, an API stands for application programming interface and is a set of rules that protocols that
+
+3
+00:00:09,060 --> 00:00:14,199
+defines how two software programs or systems can communicate with each other. It acts as an
+
+4
+00:00:14,199 --> 00:00:19,160
+intermediary between the two systems along them to exchange data and functionality. For example,
+
+5
+00:00:19,280 --> 00:00:25,039
+an API might allow a mobile app to access data from a database or it might allow a website to access
+
+6
+00:00:25,039 --> 00:00:28,500
+the functionality of a third party service like a payment processor.
+
+7
+00:00:29,219 --> 00:00:34,039
+APIs are an important part of modern software development as they enable different software programs
+
+8
+00:00:34,039 --> 00:00:40,359
+and systems to work together and share data and functionality. They are used in a wide range of
+
+9
+00:00:40,359 --> 00:00:43,920
+applications including web development, mobile development and data analysis.

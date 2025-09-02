@@ -1,167 +1,155 @@
 1
-00:00:00,000 --> 00:00:06,599
-the trippy by Indefice and you are free to collaborate with your classmates but just try the
+00:00:00,000 --> 00:00:06,339
+the tripp by NB file and you are free to collaborate with your classmates but just try the
 
 2
-00:00:06,599 --> 00:00:12,480
-name of the people you collaborated with at the top of the worksheet. So, as is introduced
+00:00:06,339 --> 00:00:11,359
+name of the people you collaborate with at the top of the worksheet. I just introduced the
 
 3
-00:00:12,480 --> 00:00:17,640
-the worksheet still by the worksheet two ways on simple linear regression and down multiple
+00:00:11,359 --> 00:00:16,420
+worksheets to you guys. Workheets to ways on simple linear regression and down multiple linear
 
 4
-00:00:17,640 --> 00:00:24,920
-linear regression. You will have to just plot a scatter plot and build a linear regression model
+00:00:16,420 --> 00:00:21,980
+regression will have to just plot a scatter plot and build a linear regression model.
 
 5
-00:00:24,920 --> 00:00:31,600
-which have to check if it follows the OS assumptions and validate the linear regression model.
+00:00:22,059 --> 00:00:27,199
+Why you have to check if it follows the OS assumptions and validate the linear regression model.
 
 6
-00:00:32,380 --> 00:00:40,280
-Then the multiple linear regression have to plot a corralogram and check which contribute
+00:00:27,199 --> 00:00:34,000
+Then the multiple linear regression have to plot a corollogram and check which contributes
 
 7
-00:00:40,280 --> 00:00:45,719
+00:00:34,000 --> 00:00:39,000
 most to the target variable and build a multiple linear regression model based on that.
 
 8
-00:00:47,119 --> 00:00:54,280
-Worksheep 2B is based on rich regression, last so and elastic regression. You have to
+00:00:39,159 --> 00:00:45,380
+Workheets will be based on a rich regression, last so and elastic regression you have to build
 
 9
-00:00:54,280 --> 00:01:00,200
-build all these three models. So, she took me around logistic regression. You have to just build
+00:00:45,380 --> 00:00:51,780
+all these three models. Workheets both these are logistic regression, you have to just build a logistic
 
 10
-00:01:00,200 --> 00:01:06,260
-all logistic regression model and you are the ROC curve and you are the C value. So,
+00:00:51,780 --> 00:00:57,179
+regression model and the ROC curve and new machine value. So the last data summit will be
 
 11
-00:01:06,359 --> 00:01:15,239
-the last date of summer will be 28 September. Before constructing the corralogram you can use
+00:00:57,179 --> 00:01:05,159
+28 September. Before constructing the corollogram you can use anything label encoding or
 
 12
-00:01:15,239 --> 00:01:20,359
-anything label and coding or one more 10 code. This can ask
+00:01:05,159 --> 00:01:10,980
+one more 10 code. This can ask your doubts in the chat or you can raise your hand will unmute.
 
 13
-00:01:22,039 --> 00:01:25,560
-your doubts in the chat or you can raise your hand will unmute you.
+00:01:11,280 --> 00:01:16,900
+You will be another 28 session or four five days before that it lines. So by then your portion
 
 14
-00:01:28,939 --> 00:01:35,159
-There will be another creation four five days before that it lines. So, by then your portion should
+00:01:16,900 --> 00:01:23,000
+should be covered so you will be able to solve and ask more questions that time. If you have any doubts
 
 15
-00:01:35,159 --> 00:01:42,939
-be covered. So, you will be able to solve and ask more questions that time. But if you have any doubts
+00:01:23,000 --> 00:01:26,579
+you can written the chat or unmute or raise your hand will unmute.
 
 16
-00:01:42,939 --> 00:01:47,819
-you can put it in the chat or unmute or raise your hand will unmute.
+00:01:26,819 --> 00:01:32,319
+Can just use the libraries to build the model. Like for linear regression model you can use LM
 
 17
-00:01:49,599 --> 00:01:55,519
-It can just use the libraries to build the model. Like for linear regression model you can use LM
+00:01:32,319 --> 00:01:39,439
+for worksheet to be you can use GLM net. You need not build one from scan just import the
 
 18
-00:01:55,519 --> 00:02:03,319
-and for worksheet 2B you can use GLM net. You need not build one from scouts just import the
+00:01:39,439 --> 00:01:45,760
+library. You can use any library you want. There is no compression on the syntax you can use any
 
 19
-00:02:03,319 --> 00:02:09,580
-life duties. You can use any library you want. There is no compression on the syntax you can use
+00:01:45,760 --> 00:01:52,540
+syntax or any libraries. Which question the OS assumptions? For all the assumptions you can
 
 20
-00:02:09,580 --> 00:02:22,319
-any libraries. Which question the OLS assumptions? For OLS assumptions you can do like 3. You can check
+00:01:53,420 --> 00:02:00,159
+do like three. You can check if the residuals are residuals for the normal distribution.
 
 21
-00:02:22,319 --> 00:02:30,080
-if the residuals are residuals for the normal distribution. You can check with homoced acidity
+00:02:00,500 --> 00:02:06,019
+Can check for homosadacity and you can check for the linear relationship. You can do three.
 
 22
-00:02:30,080 --> 00:02:34,840
-and you can check for the linear relationship. You can do 3 that is enough.
+00:02:06,239 --> 00:02:12,659
+That's an other answer your question. If you did as a mark down it will be better and professional.
 
 23
-00:02:34,840 --> 00:02:43,319
-Let us answer your question. If you did as a map down it will be better and professional. If it is
+00:02:12,979 --> 00:02:18,599
+If you answer in terms of if it's four then use the code. Both graphs and write ups
 
 24
-00:02:43,879 --> 00:02:54,379
-code then use the code. Both graphs and write ups because try to add your analysis as much as possible
+00:02:18,599 --> 00:02:25,860
+because try to add your analysis as much as possible not only code so add comments or
 
 25
-00:02:54,379 --> 00:03:02,439
-not only code so add comments or map down for whatever you are plotting. Ignase you can unmute
+00:02:25,860 --> 00:02:30,439
+mark down whatever you are plotting. Ignate you can unmute and ask the question.
 
 26
-00:03:02,439 --> 00:03:24,439
-and ask the question. Yes. Inverse you can add a map down cell and answer in that cell after each
+00:02:36,259 --> 00:02:36,979
+Okay.
 
 27
-00:03:24,439 --> 00:03:40,080
-question. The histogram of residuals is in a polynomial distribution. But do add like a text
+00:02:42,500 --> 00:02:47,560
+So that's what I answer. You can add a mark down sale and answer in that cell after each
 
 28
-00:03:42,160 --> 00:03:50,560
-or code that you want to write the code for plotting histogram and do it. Do add analysis of
+00:02:47,560 --> 00:02:48,560
+question.
 
 29
-00:03:50,560 --> 00:03:58,060
-the graph. If you add a map down code just add map down cell whenever you want to write the
+00:02:49,159 --> 00:02:49,719
+Yes.
 
 30
-00:03:58,060 --> 00:04:03,879
-text or analysis and code cells when you want to execute the code. Add there are any more questions
+00:02:51,620 --> 00:02:58,139
+Yeah I do and the histogram of residuals is in a phenomenal distribution. But do add like
 
 31
-00:04:03,879 --> 00:04:08,259
-but Michelin Dhamme, there'll be another T.S. session,
+00:02:58,139 --> 00:03:03,479
+or text else you just don't add the code. Just don't write the code for the plotting
 
 32
-00:04:08,539 --> 00:04:11,159
-our profile days before the deadline.
+00:03:03,479 --> 00:03:09,400
+histogram and you will add analysis of the graph. Mark down code just add mark down sales.
 
 33
-00:04:12,280 --> 00:04:15,259
-So you guys should, the portion should be covered by then.
+00:03:09,699 --> 00:03:15,039
+Whenever you want to write the text or analysis then code sales when you want to execute the code.
 
 34
-00:04:15,500 --> 00:04:17,740
-So you guys should be able to solve that.
+00:03:15,120 --> 00:03:19,020
+There are any more questions or shall end them. There'll be another session
 
 35
-00:04:18,040 --> 00:04:20,680
-About the hackathon we'll let you know.
+00:03:19,020 --> 00:03:24,360
+of the day before the deadline. So the portion should be covered by the
 
 36
-00:04:21,019 --> 00:04:22,540
-So do you guys have any more questions?
+00:03:24,360 --> 00:03:29,099
+so you guys should be able to solve that. About the hackathon will let you know.
 
 37
-00:04:23,000 --> 00:04:24,579
-Okay, that will end the meet.
+00:03:29,099 --> 00:03:33,460
+You guys have any more questions. Okay. That will end them. Thank you for joining.
 
 38
-00:04:24,579 --> 00:04:26,139
-Thank you for joining us.
+00:03:33,699 --> 00:03:38,340
+If any of you missed the first part of this session you'll make the recording available.
 
 39
-00:04:26,819 --> 00:04:29,740
-If any of you have missed the first part of this session,
-
-40
-00:04:30,120 --> 00:04:31,519
-we'll make the recording available.
-
-41
-00:04:31,519 --> 00:04:33,379
-You guys can catch up with that.
-
-42
-00:04:33,540 --> 00:04:33,959
-Thank you.
+00:03:38,520 --> 00:03:40,379
+You guys can catch up with that. Thank you.
